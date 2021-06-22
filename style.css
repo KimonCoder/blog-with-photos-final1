@@ -1,0 +1,19 @@
+.i{
+    height:200px;
+    height:200px;
+    border:5px #cc46ab ridge;
+}
+body{
+    font-size:25px;
+    font-family: fantasy;
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+.image-section{
+display: flex
+justify-content: center;
+}
+.section-style {
+margin-right: 25px;
+margin-left: 25px;
+}
